@@ -1,8 +1,12 @@
 {
   "chapters": [
     {
-      "title": "Chapter 7.1",
+      "title": "Chapter 7.2",
       "locked": true
+    },
+    {
+      "title": "Chapter 7.1",
+      "locked": false
     },
     {
       "title": "Chapter 6.2",
