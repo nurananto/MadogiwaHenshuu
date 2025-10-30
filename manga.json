@@ -30,7 +30,7 @@
   "chapters": {
     "1": {
       "title": "Chapter 1",
-      "chapter": 1.0,
+      "chapter": 1,
       "folder": "1",
       "uploadDate": "2025-10-25",
       "totalPages": 32,
@@ -150,13 +150,15 @@
     },
     "7.2": {
       "title": "Chapter 7.2",
+      "chapter": 7.2,
       "folder": "7.2",
+      "uploadDate": "2025-10-25",
+      "totalPages": 0,
       "pages": 0,
-      "views": 0,
-      "uploadDate": "2025-10-26",
-      "locked": true
+      "locked": true,
+      "views": 0
     }
   },
-  "lastChapterUpdate": "2025-10-26",
-  "lastUpdated": "2025-10-29T01:40:56.361780Z"
+  "lastUpdated": "2025-10-30T01:39:59.294Z",
+  "lastChapterUpdate": "2025-10-25"
 }
