@@ -66,7 +66,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 0
+      "views": 10
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -86,7 +86,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 0
+      "views": 10
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -96,7 +96,7 @@
       "totalPages": 21,
       "pages": 21,
       "locked": false,
-      "views": 0
+      "views": 10
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -116,7 +116,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 0
+      "views": 11
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -136,7 +136,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 10
+      "views": 20
     },
     "7.1": {
       "title": "Chapter 7.1",
@@ -152,13 +152,13 @@
       "title": "Chapter 7.2",
       "chapter": 7.2,
       "folder": "7.2",
-      "uploadDate": "2025-11-03T09:18:38+07:00",
+      "uploadDate": "2025-11-03T19:39:56+07:00",
       "totalPages": 0,
       "pages": 0,
       "locked": true,
       "views": 10
     }
   },
-  "lastUpdated": "2025-11-03T09:18:38+07:00",
+  "lastUpdated": "2025-11-03T19:39:56+07:00",
   "lastChapterUpdate": "2025-10-26T16:58:49+07:00"
 }
