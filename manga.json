@@ -15,7 +15,7 @@
       "Drama"
     ],
     "status": "Ongoing",
-    "views": 136,
+    "views": 156,
     "links": {
       "mangadex": "https://mangadex.org/title/a0ecce48-aa4c-48e6-8d9b-90f322a5687a/madogiwa-henshuu-to-baka-ni-sareta-ore-ga-futago-jk-to-doukyo-suru-koto-ni-natta",
       "raw": "https://comic-walker.com/detail/KC_006388_S"
@@ -146,19 +146,19 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 47
+      "views": 59
     },
     "7.2": {
       "title": "Chapter 7.2",
       "chapter": 7.2,
       "folder": "7.2",
-      "uploadDate": "2025-11-03T19:52:26+07:00",
+      "uploadDate": "2025-11-04T09:11:13+07:00",
       "totalPages": 0,
       "pages": 0,
       "locked": true,
       "views": 10
     }
   },
-  "lastUpdated": "2025-11-03T19:52:26+07:00",
+  "lastUpdated": "2025-11-04T09:11:13+07:00",
   "lastChapterUpdate": "2025-10-26T16:58:49+07:00"
 }
