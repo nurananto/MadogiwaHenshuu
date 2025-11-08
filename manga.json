@@ -15,7 +15,7 @@
       "Drama"
     ],
     "status": "Ongoing",
-    "views": 208,
+    "views": 210,
     "links": {
       "mangadex": "https://mangadex.org/title/a0ecce48-aa4c-48e6-8d9b-90f322a5687a/madogiwa-henshuu-to-baka-ni-sareta-ore-ga-futago-jk-to-doukyo-suru-koto-ni-natta",
       "raw": "https://comic-walker.com/detail/KC_006388_S"
@@ -23,9 +23,7 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/MadogiwaHenshuu/main/",
     "imagePrefix": "Image",
     "imageFormat": "jpg",
-    "lockedChapters": [
-      "7.2"
-    ]
+    "lockedChapters": []
   },
   "chapters": {
     "1": {
@@ -136,7 +134,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 27
+      "views": 28
     },
     "7.1": {
       "title": "Chapter 7.1",
@@ -146,19 +144,9 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 82
-    },
-    "7.2": {
-      "title": "Chapter 7.2",
-      "chapter": 7.2,
-      "folder": "7.2",
-      "uploadDate": "2025-11-07T09:13:27+07:00",
-      "totalPages": 0,
-      "pages": 0,
-      "locked": true,
-      "views": 21
+      "views": 86
     }
   },
-  "lastUpdated": "2025-11-08T09:01:33+07:00",
-  "lastChapterUpdate": "2025-11-07T09:13:27+07:00"
+  "lastUpdated": "2025-11-08T20:57:33+07:00",
+  "lastChapterUpdate": "2025-10-26T16:58:49+07:00"
 }
