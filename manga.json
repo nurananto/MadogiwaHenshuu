@@ -2,7 +2,7 @@
   "manga": {
     "title": "Madogiwa Henshuu to Baka ni Sareta Ore ga, Futago JK to Doukyo suru Koto ni Natta",
     "alternativeTitle": "窓際編集とバカにされた俺が、双子JKと同居することになった",
-    "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/madogiwa-ce74d132-81f0-491a-bb19-83de73746c8e.webp",
+    "cover": "https://cdn.nuranantoscans.my.id/covers/madogiwa-ce74d132-81f0-491a-bb19-83de73746c8e.webp",
     "description": "Kalau kamu membiarkan kami menginap... kamu boleh melakukan hal apapun ke kita. Mitsuhiko Okaya, seorang pria biasa, dikhianati oleh istrinya dan kouhainya di kantor. Di tempat kerja, dia dihina sebagai editor tak berguna dan tenggelam dalam keputusasaan, sampai suatu hari di hadapannya muncul sepasang gadis kembar berseragam SMA yang seharusnya asing, tapi entah kenapa terasa familiar.  Si adik, Akari, ceria, aktif, dan suka menggoda dengan santai, sedangkan kakaknya, Nanako, pemalu dan canggung, tapi diam-diam mesum.  ...Mereka ternyata adalah mantan murid bimbelnya saat masa kuliah dulu.",
     "author": "Ibarakino",
     "artist": "Usaotome",
@@ -15,7 +15,7 @@
       "Drama"
     ],
     "status": "Ongoing",
-    "views": 327,
+    "views": 356,
     "links": {
       "mangadex": "https://mangadex.org/title/a0ecce48-aa4c-48e6-8d9b-90f322a5687a/madogiwa-henshuu-to-baka-ni-sareta-ore-ga-futago-jk-to-doukyo-suru-koto-ni-natta",
       "raw": "https://comic-walker.com/detail/KC_006388_S"
@@ -34,7 +34,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 38
+      "views": 41
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -104,7 +104,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 9
+      "views": 10
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -114,7 +114,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 11
+      "views": 13
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -124,7 +124,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 10
+      "views": 12
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -134,7 +134,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 16
+      "views": 18
     },
     "7.1": {
       "title": "Chapter 7.1",
@@ -144,7 +144,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 22
+      "views": 26
     },
     "7.2": {
       "title": "Chapter 7.2",
@@ -154,7 +154,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 66
+      "views": 68
     },
     "8.1": {
       "title": "Chapter 8.1",
@@ -164,9 +164,9 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 183
+      "views": 196
     }
   },
-  "lastUpdated": "2025-11-27T00:11:38+07:00",
+  "lastUpdated": "2025-11-28T00:10:44+07:00",
   "lastChapterUpdate": "2025-11-23T10:50:19+07:00"
 }
