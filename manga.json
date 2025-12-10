@@ -15,7 +15,7 @@
       "Drama"
     ],
     "status": "Ongoing",
-    "views": 624,
+    "views": 650,
     "links": {
       "mangadex": "https://mangadex.org/title/a0ecce48-aa4c-48e6-8d9b-90f322a5687a/madogiwa-henshuu-to-baka-ni-sareta-ore-ga-futago-jk-to-doukyo-suru-koto-ni-natta",
       "raw": "https://comic-walker.com/detail/KC_006388_S"
@@ -34,7 +34,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 69
+      "views": 72
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -44,7 +44,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 30
+      "views": 32
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -54,7 +54,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 27
+      "views": 29
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -64,7 +64,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 25
+      "views": 27
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -74,7 +74,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 24
+      "views": 26
     },
     "4.1": {
       "title": "Chapter 4.1",
@@ -84,7 +84,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 22
+      "views": 23
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -124,7 +124,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 25
+      "views": 26
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -134,7 +134,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 34
+      "views": 35
     },
     "7.1": {
       "title": "Chapter 7.1",
@@ -144,7 +144,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 42
+      "views": 43
     },
     "7.2": {
       "title": "Chapter 7.2",
@@ -154,7 +154,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 105
+      "views": 108
     },
     "8.1": {
       "title": "Chapter 8.1",
@@ -164,9 +164,9 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 345
+      "views": 351
     }
   },
-  "lastUpdated": "2025-12-10T00:14:06+07:00",
+  "lastUpdated": "2025-12-11T00:15:18+07:00",
   "lastChapterUpdate": "2025-11-23T10:50:19+07:00"
 }
