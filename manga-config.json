@@ -1,4 +1,5 @@
 {
+  "type": "manga",
   "title": "Madogiwa Henshuu to Baka ni Sareta Ore ga, Futago JK to Doukyo suru Koto ni Natta",
   "alternativeTitle": "窓際編集とバカにされた俺が、双子JKと同居することになった",
   "cover": "https://cdn.nuranantoscans.my.id/covers/madogiwa-ce74d132-81f0-491a-bb19-83de73746c8e.webp",
@@ -13,7 +14,8 @@
     "Slice of Life",
     "Drama"
   ],
-  "status": "Ongoing",
+  "status": "ONGOING",
+  "endChapter": null,
   "views": 0,
   "links": {
     "mangadex": "https://mangadex.org/title/a0ecce48-aa4c-48e6-8d9b-90f322a5687a/madogiwa-henshuu-to-baka-ni-sareta-ore-ga-futago-jk-to-doukyo-suru-koto-ni-natta",
