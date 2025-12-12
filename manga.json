@@ -14,8 +14,8 @@
       "Slice of Life",
       "Drama"
     ],
-    "status": "Ongoing",
-    "views": 661,
+    "status": "ONGOING",
+    "views": 669,
     "links": {
       "mangadex": "https://mangadex.org/title/a0ecce48-aa4c-48e6-8d9b-90f322a5687a/madogiwa-henshuu-to-baka-ni-sareta-ore-ga-futago-jk-to-doukyo-suru-koto-ni-natta",
       "raw": "https://comic-walker.com/detail/KC_006388_S"
@@ -23,7 +23,8 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/MadogiwaHenshuu/main/",
     "imagePrefix": "Image",
     "imageFormat": "webp",
-    "lockedChapters": []
+    "lockedChapters": [],
+    "type": "manga"
   },
   "chapters": {
     "1": {
@@ -164,9 +165,9 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 358
+      "views": 362
     }
   },
-  "lastUpdated": "2025-12-12T00:19:23+07:00",
+  "lastUpdated": "2025-12-12T14:02:10+07:00",
   "lastChapterUpdate": "2025-11-23T10:50:19+07:00"
 }
