@@ -90,14 +90,19 @@ function isOneshotFolder(folderName) {
 }
 
 function isNumericChapter(folderName) {
-    return /^\d+(\.\d+)?$/.test(folderName);
+    return /^\d+\.?\d*$/.test(folderName);
 }
 
 function getChapterSortValue(folderName) {
     if (isOneshotFolder(folderName)) {
         return -1;
     }
-    return parseFloat(folderName);
+    
+    const parts = folderName.split('.');
+    const integer = parseInt(parts[0]) || 0;
+    const decimal = parts[1] ? parseInt(parts[1]) : 0;
+    
+    return integer + (decimal / 1000);
 }
 
 function getChapterTitle(folderName) {
