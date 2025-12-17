@@ -15,7 +15,7 @@
       "Drama"
     ],
     "status": "ONGOING",
-    "views": 958,
+    "views": 981,
     "links": {
       "mangadex": "https://mangadex.org/title/a0ecce48-aa4c-48e6-8d9b-90f322a5687a/madogiwa-henshuu-to-baka-ni-sareta-ore-ga-futago-jk-to-doukyo-suru-koto-ni-natta",
       "raw": "https://comic-walker.com/detail/KC_006388_S"
@@ -35,7 +35,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 103
+      "views": 108
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -45,7 +45,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 48
+      "views": 50
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -55,7 +55,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 41
+      "views": 42
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -65,7 +65,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 37
+      "views": 39
     },
     "3.2": {
       "title": "Chapter 3.2",
@@ -75,7 +75,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 37
+      "views": 39
     },
     "4.1": {
       "title": "Chapter 4.1",
@@ -85,7 +85,7 @@
       "totalPages": 13,
       "pages": 13,
       "locked": false,
-      "views": 34
+      "views": 36
     },
     "4.2": {
       "title": "Chapter 4.2",
@@ -95,7 +95,7 @@
       "totalPages": 21,
       "pages": 21,
       "locked": false,
-      "views": 35
+      "views": 39
     },
     "5.1": {
       "title": "Chapter 5.1",
@@ -105,7 +105,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 36
+      "views": 39
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -115,7 +115,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 42
+      "views": 45
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -125,7 +125,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 43
+      "views": 46
     },
     "6.2": {
       "title": "Chapter 6.2",
@@ -135,7 +135,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 52
+      "views": 56
     },
     "7.1": {
       "title": "Chapter 7.1",
@@ -145,7 +145,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 64
+      "views": 66
     },
     "7.2": {
       "title": "Chapter 7.2",
@@ -155,7 +155,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 139
+      "views": 142
     },
     "8.1": {
       "title": "Chapter 8.1",
@@ -165,7 +165,7 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 453
+      "views": 461
     },
     "8.2": {
       "title": "Chapter 8.2",
@@ -175,9 +175,9 @@
       "totalPages": 19,
       "pages": 19,
       "locked": false,
-      "views": 173
+      "views": 182
     }
   },
-  "lastUpdated": "2025-12-17T00:17:08+07:00",
+  "lastUpdated": "2025-12-18T00:17:19+07:00",
   "lastChapterUpdate": "2025-12-14T11:58:13+07:00"
 }
