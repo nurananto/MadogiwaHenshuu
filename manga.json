@@ -15,7 +15,7 @@
       "Drama"
     ],
     "status": "ONGOING",
-    "views": 2133,
+    "views": 2157,
     "links": {
       "mangadex": "https://mangadex.org/title/a0ecce48-aa4c-48e6-8d9b-90f322a5687a/madogiwa-henshuu-to-baka-ni-sareta-ore-ga-futago-jk-to-doukyo-suru-koto-ni-natta",
       "raw": "https://comic-walker.com/detail/KC_006388_S"
@@ -35,7 +35,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 236
+      "views": 237
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -45,7 +45,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 131
+      "views": 132
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -105,7 +105,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 98
+      "views": 100
     },
     "5.2": {
       "title": "Chapter 5.2",
@@ -115,7 +115,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 108
+      "views": 109
     },
     "6.1": {
       "title": "Chapter 6.1",
@@ -155,7 +155,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 201
+      "views": 202
     },
     "8.1": {
       "title": "Chapter 8.1",
@@ -165,7 +165,7 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 545
+      "views": 546
     },
     "8.2": {
       "title": "Chapter 8.2",
@@ -175,7 +175,7 @@
       "totalPages": 19,
       "pages": 19,
       "locked": false,
-      "views": 365
+      "views": 366
     },
     "9.1": {
       "title": "Chapter 9.1",
@@ -185,7 +185,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 374
+      "views": 375
     },
     "9.2": {
       "title": "Chapter 9.2",
@@ -195,7 +195,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 313
+      "views": 315
     },
     "10.1": {
       "title": "Chapter 10.1",
@@ -205,9 +205,9 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 0
+      "views": 19
     }
   },
-  "lastUpdated": "2026-01-18T20:28:23+07:00",
+  "lastUpdated": "2026-01-19T00:10:10+07:00",
   "lastChapterUpdate": "2026-01-18T20:26:51+07:00"
 }
