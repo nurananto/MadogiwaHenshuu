@@ -1,94 +1,94 @@
 {
   "chapters": {
     "1": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T09:41:33.430Z",
-      "lastUpdate": "2026-01-19T00:10:10+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "2.1": {
-      "pendingViews": 2,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T09:50:26.158Z",
-      "lastUpdate": "2026-01-19T00:10:10+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "2.2": {
-      "pendingViews": 3,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T09:56:03.394Z",
-      "lastUpdate": "2026-01-18T20:28:23+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "3.1": {
-      "pendingViews": 4,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:13:31.808Z",
-      "lastUpdate": "2026-01-18T20:28:23+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "3.2": {
-      "pendingViews": 4,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T10:04:19.602Z",
-      "lastUpdate": "2026-01-18T20:28:23+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "4.1": {
-      "pendingViews": 3,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:10:20.529Z",
-      "lastUpdate": "2026-01-18T20:28:23+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "4.2": {
-      "pendingViews": 3,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:10:31.034Z",
-      "lastUpdate": "2026-01-18T20:28:23+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "5.1": {
-      "pendingViews": 4,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:05:40.543Z",
-      "lastUpdate": "2026-01-19T00:10:10+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "5.2": {
-      "pendingViews": 4,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:07:31.571Z",
-      "lastUpdate": "2026-01-19T00:10:10+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "6.1": {
-      "pendingViews": 4,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:04:30.157Z",
-      "lastUpdate": "2026-01-18T20:28:23+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "6.2": {
-      "pendingViews": 8,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:18:50.925Z",
-      "lastUpdate": "2026-01-18T20:28:23+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "7.1": {
-      "pendingViews": 6,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:03:54.364Z",
-      "lastUpdate": "2026-01-18T20:28:23+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "7.2": {
-      "pendingViews": 6,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:04:11.154Z",
-      "lastUpdate": "2026-01-19T00:10:10+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "8.1": {
-      "pendingViews": 6,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:03:34.905Z",
-      "lastUpdate": "2026-01-19T00:10:10+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "8.2": {
-      "pendingViews": 7,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:05:23.972Z",
-      "lastUpdate": "2026-01-19T00:10:10+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "9.1": {
-      "pendingViews": 5,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:10:54.835Z",
-      "lastUpdate": "2026-01-19T00:10:10+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "9.2": {
-      "pendingViews": 11,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T12:19:20.963Z",
-      "lastUpdate": "2026-01-19T00:10:10+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     },
     "10.1": {
-      "pendingViews": 56,
+      "pendingViews": 0,
       "lastIncrement": "2026-01-19T14:14:37.678Z",
-      "lastUpdate": "2026-01-19T00:10:10+07:00"
+      "lastUpdate": "2026-01-20T00:16:57+07:00"
     }
   },
   "lastUpdated": "2026-01-04T00:10:19+07:00"
