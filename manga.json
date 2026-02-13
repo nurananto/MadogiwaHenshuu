@@ -15,7 +15,7 @@
       "Drama"
     ],
     "status": "ONGOING",
-    "views": 2885,
+    "views": 2901,
     "links": {
       "mangadex": "https://mangadex.org/title/a0ecce48-aa4c-48e6-8d9b-90f322a5687a/madogiwa-henshuu-to-baka-ni-sareta-ore-ga-futago-jk-to-doukyo-suru-koto-ni-natta",
       "raw": "https://comic-walker.com/detail/KC_006388_S"
@@ -35,7 +35,7 @@
       "totalPages": 32,
       "pages": 32,
       "locked": false,
-      "views": 314
+      "views": 315
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -45,7 +45,7 @@
       "totalPages": 15,
       "pages": 15,
       "locked": false,
-      "views": 172
+      "views": 173
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -155,7 +155,7 @@
       "totalPages": 18,
       "pages": 18,
       "locked": false,
-      "views": 231
+      "views": 232
     },
     "8.1": {
       "title": "Chapter 8.1",
@@ -165,7 +165,7 @@
       "totalPages": 8,
       "pages": 8,
       "locked": false,
-      "views": 584
+      "views": 586
     },
     "8.2": {
       "title": "Chapter 8.2",
@@ -175,7 +175,7 @@
       "totalPages": 19,
       "pages": 19,
       "locked": false,
-      "views": 404
+      "views": 405
     },
     "9.1": {
       "title": "Chapter 9.1",
@@ -185,7 +185,7 @@
       "totalPages": 16,
       "pages": 16,
       "locked": false,
-      "views": 444
+      "views": 450
     },
     "9.2": {
       "title": "Chapter 9.2",
@@ -195,7 +195,7 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 411
+      "views": 416
     },
     "10.1": {
       "title": "Chapter 10.1",
@@ -205,7 +205,7 @@
       "totalPages": 14,
       "pages": 14,
       "locked": false,
-      "views": 395
+      "views": 402
     },
     "10.2": {
       "title": "Chapter 10.2",
@@ -215,9 +215,9 @@
       "totalPages": 12,
       "pages": 12,
       "locked": false,
-      "views": 125
+      "views": 137
     }
   },
-  "lastUpdated": "2026-02-13T00:51:23+07:00",
+  "lastUpdated": "2026-02-14T00:34:12+07:00",
   "lastChapterUpdate": "2026-02-08T16:53:42+07:00"
 }
