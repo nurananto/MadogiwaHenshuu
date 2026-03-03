@@ -13,9 +13,7 @@
 | Author | Ibarakino |
 | Artist | Usaotome |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Shounen · Comedy · Romance · Gyaru · Slice of Life · Drama |
-| Chapter | 19 chapter |
 
 ## Link
 
